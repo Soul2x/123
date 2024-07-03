@@ -8,7 +8,7 @@ console = Console()
 client = Client()
 
 # Prompt for login credentials
-email = "sumeetsingh068@gmail.com"
+email = "sumeetbangi0@gmail.com"
 password = "@Soul2413"
 client.login(email=email, password=password)
 
